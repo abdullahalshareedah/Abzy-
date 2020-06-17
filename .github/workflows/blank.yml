@@ -1,0 +1,4 @@
+var grades = [91.6, 89.0, 94]
+
+let average =(grades[0] + grades[1] + grades(2) / 3
+
